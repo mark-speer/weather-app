@@ -1,0 +1,49 @@
+
+header {
+  padding: 0.5%;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  background-color: black;
+};
+
+#searchBtn {
+  border-radius: 20%;
+  background-color: blue;
+  color: white;
+};
+
+.fas {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+};
+
+main {
+  margin: 20%;
+  padding: 20%;
+};
+
+.favorable {
+  border-radius: 10px;
+  padding: 5%;
+  background-color: green;
+  color: white;
+}
+
+.moderate {
+  border-radius: 10px;
+  padding: 5%;
+  background-color: orange;
+  color: white;
+}
+
+.severe {
+  border-radius: 10px;
+  padding: 5%;
+  background-color: red;
+  color: white;
+};
+
+.max {
+  max-width: 10rem;
+}
